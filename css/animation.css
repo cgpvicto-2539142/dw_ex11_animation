@@ -1,0 +1,14 @@
+.Images {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.Hérisson {
+    grid-area: Hérisson;
+}
+.Équidné {
+    grid-area: Équidné;
+}
+.Porc-Épic {
+    grid-area: Porc-Épic;
+}
